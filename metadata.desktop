@@ -8,6 +8,5 @@ X-KDE-PluginInfo-EnabledByDefault=true
 X-KDE-PluginInfo-License=GPL 3.0
 X-KDE-PluginInfo-Name=fedora-splash
 X-KDE-PluginInfo-Version=1.0
-X-KDE-PluginInfo-Website=https://github.com/notsag
+X-KDE-PluginInfo-Website=https://github.com/notsag/fedora-splash
 X-KDE-ServiceTypes=Plasma/LookAndFeel
-X-KPackage-Dependencies=

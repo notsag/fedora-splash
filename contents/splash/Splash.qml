@@ -45,7 +45,7 @@ Image {
             color: "#434344"
             anchors {
                 bottom: parent.bottom
-                bottomMargin: 50
+                bottomMargin: -50
                 horizontalCenter: parent.horizontalCenter
             }
             height: 4
@@ -59,7 +59,7 @@ Image {
                     bottom: parent.bottom
                 }
                 width: (parent.width / 6) * (stage - 1)
-                color: "#004d99"
+                color: "#3c6eb4"
                 Behavior on width { 
                     PropertyAnimation {
                         duration: 250
