@@ -1,0 +1,15 @@
+[kdeglobals][KDE]
+
+[kdeglobals][General]
+ColorScheme=Breeze Dark
+
+[kdeglobals][Icons]
+Theme=Breeze Dark
+
+[plasmarc][Theme]
+name=Fedora
+
+[kwinrc][org.kde.kdecoration2]
+
+[kcminputrc][Mouse]
+cursorTheme=breeze_cursors
